@@ -1,0 +1,15 @@
+
+Reading package lists... Done
+NOTICE: 'calamares-settings-debian' packaging is maintained in the 'Git' version control system at:
+https://salsa.debian.org/live-team/calamares-settings-debian-packaging.git
+Please use:
+git clone https://salsa.debian.org/live-team/calamares-settings-debian-packaging.git
+to retrieve the latest (possibly unreleased) updates to the package.
+Need to get 136 kB of source archives.
+Get:1 http://tw.archive.ubuntu.com/ubuntu plucky/universe calamares-settings-debian 13.0.12-2 (dsc) [2,116 B]
+Get:2 http://tw.archive.ubuntu.com/ubuntu plucky/universe calamares-settings-debian 13.0.12-2 (tar) [124 kB]
+Get:3 http://tw.archive.ubuntu.com/ubuntu plucky/universe calamares-settings-debian 13.0.12-2 (diff) [10.3 kB]
+Fetched 136 kB in 1s (192 kB/s)                      
+dpkg-source: info: extracting calamares-settings-debian in calamares-settings-debian-13.0.12
+dpkg-source: info: unpacking calamares-settings-debian_13.0.12.orig.tar.bz2
+dpkg-source: info: unpacking calamares-settings-debian_13.0.12-2.debian.tar.xz
