@@ -1,0 +1,26 @@
+Package: calamares-data
+Source: calamares
+Version: 3.3.14-0ubuntu25.26.04.1
+Architecture: all
+Maintainer: Lubuntu Developers <lubuntu-devel@lists.ubuntu.com>
+Installed-Size: 798
+Depends: qml6-module-qtquick, qml6-module-qtquick-window
+Breaks: calamares (<< 3.3.14-0ubuntu4)
+Replaces: calamares (<< 3.3.14-0ubuntu4)
+Section: utils
+Priority: optional
+Homepage: https://github.com/calamares/calamares
+Description: data for Calamares
+ Calamares is a distribution-independent installer framework.
+ .
+ It provides a graphical installer that can be used with nearly
+ any distribution. This package is suitable for live media on
+ Debian-based systems, and won't be of any particular use on
+ an already installed system.
+ .
+ You will likely want to provide your own config files to match
+ your distribution, reading the Calamares documentation will guide
+ you through that process.
+ .
+ Data files for Calamares.
+Original-Maintainer: Jonathan Carter <jcc@debian.org>

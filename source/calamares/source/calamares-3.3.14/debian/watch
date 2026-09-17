@@ -1,0 +1,6 @@
+Version: 5
+
+Source: https://codeberg.org/api/v1/repos/Calamares/calamares/releases
+Matching-Pattern: https://codeberg.org/Calamares/calamares/archive/[^"-_v]*@ANY_VERSION@@ARCHIVE_EXT@
+Search-Mode: plain
+Filename-Mangle: s%.*/[^"-_v]*@ANY_VERSION@%@PACKAGE@-$1%

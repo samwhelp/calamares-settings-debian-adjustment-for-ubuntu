@@ -1,0 +1,11 @@
+0001-replace-pkexec-by-sudo.patch
+apport-package-hook.patch
+enable-only-present-with-encryption-partitions.patch
+grub-debconf-config.patch
+unmount-encrypted-devices.patch
+fix-checkbox-warning-confusion.patch
+repair-icon-size.patch
+populate-bootloader-installation-path.patch
+allow-ignore-software-db-update-failure.patch
+sddm-test-fix.patch
+lightdm-greeter-path.patch

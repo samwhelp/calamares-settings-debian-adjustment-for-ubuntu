@@ -1,0 +1,26 @@
+Reading package lists... Done
+NOTICE: 'calamares' packaging is maintained in the 'Git' version control system at:
+https://git.launchpad.net/~ubuntu-qt-code/ubuntu/+source/calamares/+git/calamares
+Please use:
+git clone https://git.launchpad.net/~ubuntu-qt-code/ubuntu/+source/calamares/+git/calamares
+to retrieve the latest (possibly unreleased) updates to the package.
+Need to get 4907 kB of source archives.
+Get:1 http://archive.ubuntu.com/ubuntu resolute-updates/universe calamares 3.3.14-0ubuntu25.26.04.1 (tar) [4821 kB]
+Get:2 http://archive.ubuntu.com/ubuntu resolute-updates/universe calamares 3.3.14-0ubuntu25.26.04.1 (diff) [83.2 kB]
+Get:3 http://archive.ubuntu.com/ubuntu resolute-updates/universe calamares 3.3.14-0ubuntu25.26.04.1 (dsc) [2974 B]
+Fetched 4907 kB in 7s (694 kB/s)                                                               
+dpkg-source: info: extracting calamares in calamares-3.3.14
+dpkg-source: info: unpacking calamares_3.3.14.orig.tar.gz
+dpkg-source: info: unpacking calamares_3.3.14-0ubuntu25.26.04.1.debian.tar.xz
+dpkg-source: info: using patch list from debian/patches/series
+dpkg-source: info: applying 0001-replace-pkexec-by-sudo.patch
+dpkg-source: info: applying apport-package-hook.patch
+dpkg-source: info: applying enable-only-present-with-encryption-partitions.patch
+dpkg-source: info: applying grub-debconf-config.patch
+dpkg-source: info: applying unmount-encrypted-devices.patch
+dpkg-source: info: applying fix-checkbox-warning-confusion.patch
+dpkg-source: info: applying repair-icon-size.patch
+dpkg-source: info: applying populate-bootloader-installation-path.patch
+dpkg-source: info: applying allow-ignore-software-db-update-failure.patch
+dpkg-source: info: applying sddm-test-fix.patch
+dpkg-source: info: applying lightdm-greeter-path.patch
